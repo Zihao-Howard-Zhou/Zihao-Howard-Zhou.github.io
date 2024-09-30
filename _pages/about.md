@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to Zihao (Horward) Zhou's homepage! I am pursuing my Master's degree in the [School of Electronic and Information Engineering](https://www2.scut.edu.cn/ee/) at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/main.htm) from **Sept. 2022**, supervised by Prof. [Jie Tang](https://scholar.google.com.hk/citations?user=XmHS0NUAAAAJ&hl=zh-CN#:~:text=%E5%B1%95%E5%BC%80.%20%E2%80%AASouth). Prior to that, I received my B.Eng. from the School of Electronic and Information Engineering, SCUT in **Jun. 2022**.
+
+My current research interests include **Network protocols (e.g., Routing protocols, MAC protocols)**, **Dynamic wireless networks (e.g., UAV swarm, mobile ad-hoc network)** and **Wireless communication**. I am always looking for opportunities to collaborate with researchers and engineers. If you are interested in my research or have any questions, please feel free to contact me via email: [eezihaozhou@gmail.com](eezihaozhou@gmail.com).
 
 A data-driven personal website
 ======
