@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Optimized Routing Protocol Through Exploitation of Trajectory Knowledge for UAV Swarms"
 collection: publications
-category: manuscripts
+category: Journal Paper
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'Due to its strong flexibility, easy deployment and extensive connectivity, unmanned aerial vehicle (UAV) swarm has been widely used in emergency communication in recent years, especially in the case when terrestrial communication infrastructures are no longer available. Within a UAV swarm, the design of routing protocol is one of the most challenging problems that enables cooperation among multiple UAVs to perform complex tasks in disaster areas. Nevertheless, the routing protocols reported so far have made the simplifying assumption that the UAV nodes move randomly. In the context of mission-oriented scenarios, such as emergency communication in disaster areas, this assumption appears evidently impractical. On the contrary, for many UAV applications, the trajectories of UAVs are pre-planned in advance through mission planning and trajectory planning. Disregarding trajectory information from the application layer may result in routing protocols struggling to adapt to rapid changes in network topology and facing challenges in achieving optimal performance across various communication metrics. To break the bottleneck, in this paper, we propose an efficient trajectory-based optimized routing protocol (TORP) for mission-oriented UAV swarm. Firstly, we model the packet routing problem using the concept of time-dependent graph. The objective is to maximize network performance, considering the power consumption and end-to-end (E2E) delay. The formulated problem is a binary linear programming (BLP) problem which is intractable to solve. Firstly, we propose a modified dynamically weighted Dijkstra's algorithm (MDWD). Based on the MDWD algorithm, we further propose an efficient optimization scheme to solve the constructed optimization problem. The simulation results demonstrate that our algorithm can make effective routing selections in dynamic UAV network, thereby improving the system performance in terms of packet delivery ratio, end-toend delay and power consumption.'
+date: 2024-05-27
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10539275'
+citation: 'Z. Zhou, J. Tang, W. Feng, N. Zhao, Z. Yang and K. -K. Wong, "Optimized Routing Protocol Through Exploitation of Trajectory Knowledge for UAV Swarms," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3405733.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
