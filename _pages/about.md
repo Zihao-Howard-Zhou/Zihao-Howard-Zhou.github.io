@@ -23,9 +23,9 @@ Selected Publications
 
 Honors and Awards
 ======
-- National Scholarship for Graduate Students (Top 1% Student Gained) (2024)
+- National Scholarship for Graduate Students (Top 1%) (2024)
 - Excellent conclusion of National Innovative Training Project for College Students (2021)
-- Guangzhou Automobile Group Co., Ltd. donation scholarship (Top 1% Student Gained) (2021)
+- Guangzhou Automobile Group Co., Ltd. donation scholarship (Top 1%) (2021)
 - "Mingwei" Scholarship of School of Electronics and Information Engineering (2021)
 - Outstanding Student Leader in 2018-2019 academic year (2019)
 
