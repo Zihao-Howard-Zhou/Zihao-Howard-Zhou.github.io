@@ -21,14 +21,13 @@ Selected Publications
 - J. Tang, Z. Peng, **Z. Zhou**, D. K. C. So, X. Zhang and K. -K. Wong, "Energy-Efficient Resource Allocation for IRS-aided MISO System with SWIPT," in [*2022 IEEE Global Communications Conference (GLOBECOM)*](https://globecom2022.ieee-globecom.org/), 2022, pp. 3217-3222. [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10000645&casa_token=hgZAdRDR2gUAAAAA:RNsIO4isqjntYMVMeYmIpM7E0Hl_wKRwSvGleBvyvOL63QRzxaeUJWPqrGq-PxsXwKq5wvqmt0SAJU0)
 - **Z. Zhou**, S. Wen and W. Guan, "RSE-based optical camera communication in underwater scenery with bubble degradation," in [*2021 Optical Fiber Communication Conference (OFC)*](https://ieeexplore.ieee.org/xpl/conhome/9489393/proceeding), 2021, pp. M2B-2. [[link]](https://opg.optica.org/abstract.cfm?uri=OFC-2021-M2B.2)
 
-Getting started
+Honors and Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- National Scholarship for Graduate Students (Top 1% Student Gained) (2024)
+- Excellent conclusion of National Innovative Training Project for College Students (2021)
+- Guangzhou Automobile Group Co., Ltd. donation scholarship (Top 1% Student Gained) (2021)
+- "Mingwei" Scholarship of School of Electronics and Information Engineering (2021)
+- Outstanding Student Leader in 2018-2019 academic year (2019)
 
 Site-wide configuration
 ------
